@@ -1,0 +1,13 @@
+The destination name is too long (785), reducing to 236
+--2021-12-04 13:20:29--  https://storage.googleapis.com/kagglesdsdata/datasets/2735/4525/S09_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192000Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=7c8d92bc4ece7d826633457e807f8e5702b59298b82a3b4b2d1bc463655be3c619c135d81c539334a4b6785a4f502df5e348576b41655cad8b01d6fa75daa830136ab5eabdc41650bec6b59860e314d0cd7cbf8fb14dd4d23ac943e4452eed4e116e0dfd38a3f9bdda2f3849d99733c6ca44b63a7331469dd1fba9847d33beac41d3f696d2a9b7e9dc0575f06c3c01c3dff9dd75ddafff368beffbcce6c316c3c35aa22b6dd1298c3cc91a0f10def23abfbdbd2aef793e1e560806686da96e45d0327b7e4a1804c1366315e0138d05f5638f5e40a9409346cd0f050a8cf340d8c882d00ef10ec32b7ad9e59a48c9c2f215362a494acce12b9cf1e72ca6fb4d66
+Resolving storage.googleapis.com (storage.googleapis.com)... 2607:f8b0:4000:805::2010, 2607:f8b0:4023:1004::80, 2607:f8b0:4023:1000::80, ...
+Connecting to storage.googleapis.com (storage.googleapis.com)|2607:f8b0:4000:805::2010|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85360 (83K) [text/plain]
+Saving to: ‘S09_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192000Z&X-Goog-Expires=259199&X-Goog’
+
+     0K .......... .......... .......... .......... .......... 59% 1.14M 0s
+    50K .......... .......... .......... ...                  100% 2.13M=0.06s
+
+2021-12-04 13:20:29 (1.40 MB/s) - ‘S09_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192000Z&X-Goog-Expires=259199&X-Goog’ saved [85360/85360]
+

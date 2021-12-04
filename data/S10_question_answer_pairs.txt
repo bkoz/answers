@@ -1,0 +1,15 @@
+The destination name is too long (785), reducing to 236
+--2021-12-04 13:21:03--  https://storage.googleapis.com/kagglesdsdata/datasets/2735/4525/S10_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192036Z&X-Goog-Expires=259199&X-Goog-SignedHeaders=host&X-Goog-Signature=31f9c0386baddbaeb3468489039f70dbdb9f85686acfbc457bcf290b721fe7d1718bb38abf6800c109df776fc593e6762a68861856047e2fb540cc70941ccfececfebfc957066010a4aae937a39c40d6bdf14d08a320ada5894de842c128941c3337c6b6e0c56eedff3b46f8b935e42fb0cc90f13e0a2c97615b6fa87ad0bd43ac28c445388e04ff28400f8f47537644589abe96c9af235d8c6ec178e2880218c04461e00a46756d79277a4e83ef83d83536050a85f756327079ab896e0df3ff965a4ef21e259c98694b9e390e1eb774b36c55a1c8f183303df9fd0110929aa44d76f40e2bfa8a9da041f2b019fc7fdc61449f414ae77626b451c388cbbf90d7
+Resolving storage.googleapis.com (storage.googleapis.com)... 2607:f8b0:4023:1004::80, 2607:f8b0:4023:1000::80, 2607:f8b0:4023:1002::80, ...
+Connecting to storage.googleapis.com (storage.googleapis.com)|2607:f8b0:4023:1004::80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166159 (162K) [text/plain]
+Saving to: ‘S10_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192036Z&X-Goog-Expires=259199&X-Goog’
+
+     0K .......... .......... .......... .......... .......... 30%  801K 0s
+    50K .......... .......... .......... .......... .......... 61% 1.82M 0s
+   100K .......... .......... .......... .......... .......... 92% 3.16M 0s
+   150K .......... ..                                         100% 5.41M=0.1s
+
+2021-12-04 13:21:04 (1.48 MB/s) - ‘S10_question_answer_pairs.txt?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com%2F20211204%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20211204T192036Z&X-Goog-Expires=259199&X-Goog’ saved [166159/166159]
+
